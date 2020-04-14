@@ -5,8 +5,10 @@ Kentucky's Red River Gorge national Geological Area
 ## Photographs of Red River Gorge
 ![Cliff](cliff.jpg)
 Cliff at the Red River Gorge by Samuel Griffith
+
 ![Clifty wilderness](clifty.jpg)
 Arch in the Clify Wilderness by Samuel Griffith
+
 ![Stream](stream.jpg)
 Stream found while hiking the Red River Gorge by Samuel Griffith
 
